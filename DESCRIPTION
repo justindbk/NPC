@@ -3,7 +3,7 @@ Type: Package
 Title: Nonparametric Combination of Hypothesis Tests
 Version: 0.1
 Authors@R: "Devin Caughey <devin.caughey@gmail.com> [aut, cre]"
-Maintainer: Devin Caughey <devin.caughey@gmail.com>
+Maintainer: "Devin Caughey" <devin.caughey@gmail.com>
 Depends:
     R (>= 3.1.1)
 LazyData: true
@@ -15,7 +15,7 @@ Description: NPC is a package for performing nonparametric combination
     is that it accounts for the dependence among tests under the null
     hypothesis. In addition to the "NPC" function, which performs nonparametric
     combination itself, the package also contains a number of helper functions,
-    many of which calculate a test statistic given an imput of data.
+    many of which calculate a test statistic given an input of data.
 License: GPL-3
 Imports:
     permute,
